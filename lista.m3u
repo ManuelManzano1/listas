@@ -1,0 +1,247 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: MOVISTAR LALIGA ᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/38/cache/" tvg-chno="1" group-title="ES| M+ LALIGA VIP",ES: MOVISTAR LALIGA ᴴᴰ
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2126805.ts
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: MOVISTAR LALIGA ʰᵉᵛᶜ" tvg-logo="http://localhost:9191/api/channels/logos/38/cache/" tvg-chno="2" group-title="ES| M+ LALIGA VIP",ES: MOVISTAR LALIGA ʰᵉᵛᶜ
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2126798.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga" tvg-logo="http://localhost:9191/api/channels/logos/293/cache/" tvg-chno="2" group-title="Movistar Futbol",M+ LaLiga
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2126802.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga" tvg-logo="http://localhost:9191/api/channels/logos/293/cache/" tvg-chno="4" group-title="Movistar Futbol",M+ LaLiga
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2126798.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="M+ LaLiga 2" tvg-logo="http://localhost:9191/api/channels/logos/296/cache/" tvg-chno="5" group-title="Movistar Futbol",M+ LaLiga 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2126800.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="M+ LaLiga 2" tvg-logo="http://localhost:9191/api/channels/logos/296/cache/" tvg-chno="6" group-title="Movistar Futbol",M+ LaLiga 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1680824.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 3 HD" tvg-name="M+ LaLiga 3" tvg-logo="http://localhost:9191/api/channels/logos/317/cache/" tvg-chno="7" group-title="Movistar Futbol",M+ LaLiga 3
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2126799.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 4" tvg-name="M+ LaLiga 4" tvg-logo="http://localhost:9191/api/channels/logos/318/cache/" tvg-chno="8" group-title="Movistar Futbol",M+ LaLiga 4
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1680822.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 5" tvg-name="M+ LaLiga 5" tvg-logo="http://localhost:9191/api/channels/logos/319/cache/" tvg-chno="9" group-title="Movistar Futbol",M+ LaLiga 5
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1680821.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 6" tvg-name="M+ LaLiga 6" tvg-logo="http://localhost:9191/api/channels/logos/320/cache/" tvg-chno="10" group-title="Movistar Futbol",M+ LaLiga 6
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1680820.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion" tvg-logo="http://localhost:9191/api/channels/logos/295/cache/" tvg-chno="11" group-title="Movistar Futbol",LaLiga TV Hypermotion
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1680816.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion" tvg-logo="http://localhost:9191/api/channels/logos/295/cache/" tvg-chno="12" group-title="Movistar Futbol",LaLiga TV Hypermotion
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2004481.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga TV Hypermotion 2" tvg-logo="http://localhost:9191/api/channels/logos/298/cache/" tvg-chno="13" group-title="Movistar Futbol",LaLiga TV Hypermotion 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1680815.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga TV Hypermotion 2" tvg-logo="http://localhost:9191/api/channels/logos/298/cache/" tvg-chno="14" group-title="Movistar Futbol",LaLiga TV Hypermotion 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1677865.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones" tvg-logo="http://localhost:9191/api/channels/logos/299/cache/" tvg-chno="15" group-title="Movistar Futbol",M+ Liga de Campeones
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1677863.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones" tvg-logo="http://localhost:9191/api/channels/logos/299/cache/" tvg-chno="16" group-title="Movistar Futbol",M+ Liga de Campeones
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144573.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones" tvg-logo="http://localhost:9191/api/channels/logos/299/cache/" tvg-chno="17" group-title="Movistar Futbol",M+ Liga de Campeones
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144574.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones" tvg-logo="http://localhost:9191/api/channels/logos/299/cache/" tvg-chno="18" group-title="Movistar Futbol",M+ Liga de Campeones
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1992630.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2" tvg-logo="http://localhost:9191/api/channels/logos/300/cache/" tvg-chno="19" group-title="Movistar Futbol",M+ Liga de Campeones 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144594.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2" tvg-logo="http://localhost:9191/api/channels/logos/300/cache/" tvg-chno="20" group-title="Movistar Futbol",M+ Liga de Campeones 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144570.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3" tvg-logo="http://localhost:9191/api/channels/logos/301/cache/" tvg-chno="21" group-title="Movistar Futbol",M+ Liga de Campeones 3
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144593.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3" tvg-logo="http://localhost:9191/api/channels/logos/301/cache/" tvg-chno="22" group-title="Movistar Futbol",M+ Liga de Campeones 3
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144569.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="http://localhost:9191/api/channels/logos/311/cache/" tvg-chno="23" group-title="Movistar Futbol",M+ Liga de Campeones 4
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144592.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="http://localhost:9191/api/channels/logos/311/cache/" tvg-chno="24" group-title="Movistar Futbol",M+ Liga de Campeones 4
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144568.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="http://localhost:9191/api/channels/logos/312/cache/" tvg-chno="25" group-title="Movistar Futbol",M+ Liga de Campeones 5
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144591.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="http://localhost:9191/api/channels/logos/312/cache/" tvg-chno="26" group-title="Movistar Futbol",M+ Liga de Campeones 5
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144567.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ Liga de Campeones 6" tvg-logo="http://localhost:9191/api/channels/logos/313/cache/" tvg-chno="27" group-title="Movistar Futbol",M+ Liga de Campeones 6
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144590.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ Liga de Campeones 6" tvg-logo="http://localhost:9191/api/channels/logos/313/cache/" tvg-chno="28" group-title="Movistar Futbol",M+ Liga de Campeones 6
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144566.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="http://localhost:9191/api/channels/logos/314/cache/" tvg-chno="29" group-title="Movistar Futbol",M+ Liga de Campeones 7
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144589.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="http://localhost:9191/api/channels/logos/314/cache/" tvg-chno="30" group-title="Movistar Futbol",M+ Liga de Campeones 7
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144565.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M+ Liga de Campeones 8" tvg-logo="http://localhost:9191/api/channels/logos/315/cache/" tvg-chno="31" group-title="Movistar Futbol",M+ Liga de Campeones 8
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144588.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M+ Liga de Campeones 8" tvg-logo="http://localhost:9191/api/channels/logos/315/cache/" tvg-chno="32" group-title="Movistar Futbol",M+ Liga de Campeones 8
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144564.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="M+ Liga de Campeones 9" tvg-logo="http://localhost:9191/api/channels/logos/316/cache/" tvg-chno="33" group-title="Movistar Futbol",M+ Liga de Campeones 9
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144587.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="M+ Liga de Campeones 9" tvg-logo="http://localhost:9191/api/channels/logos/316/cache/" tvg-chno="34" group-title="Movistar Futbol",M+ Liga de Campeones 9
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2144563.ts
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia" tvg-logo="http://localhost:9191/api/channels/logos/326/cache/" tvg-chno="35" group-title="Documentales",Historia
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839906.ts
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia" tvg-logo="http://localhost:9191/api/channels/logos/326/cache/" tvg-chno="36" group-title="Documentales",Historia
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839884.ts
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea" tvg-logo="http://localhost:9191/api/channels/logos/327/cache/" tvg-chno="37" group-title="Documentales",Odisea
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839904.ts
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea" tvg-logo="http://localhost:9191/api/channels/logos/327/cache/" tvg-chno="38" group-title="Documentales",Odisea
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839882.ts
+#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="Iberalia caza" tvg-logo="http://localhost:9191/api/channels/logos/329/cache/" tvg-chno="39" group-title="Documentales",Iberalia caza
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840211.ts
+#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="Iberalia caza" tvg-logo="http://localhost:9191/api/channels/logos/329/cache/" tvg-chno="40" group-title="Documentales",Iberalia caza
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840193.ts
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="Iberalia pesca" tvg-logo="http://localhost:9191/api/channels/logos/330/cache/" tvg-chno="41" group-title="Documentales",Iberalia pesca
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840210.ts
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="Iberalia pesca" tvg-logo="http://localhost:9191/api/channels/logos/330/cache/" tvg-chno="42" group-title="Documentales",Iberalia pesca
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840192.ts
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="M+ Documentales" tvg-logo="http://localhost:9191/api/channels/logos/275/cache/" tvg-chno="43" group-title="Documentales",M+ Documentales
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840097.ts
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="M+ Documentales" tvg-logo="http://localhost:9191/api/channels/logos/275/cache/" tvg-chno="44" group-title="Documentales",M+ Documentales
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840085.ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic" tvg-logo="http://localhost:9191/api/channels/logos/287/cache/" tvg-chno="45" group-title="Documentales",National Geographic
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839908.ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic" tvg-logo="http://localhost:9191/api/channels/logos/287/cache/" tvg-chno="46" group-title="Documentales",National Geographic
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839886.ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic" tvg-logo="http://localhost:9191/api/channels/logos/287/cache/" tvg-chno="47" group-title="Documentales",National Geographic
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839907.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild" tvg-logo="http://localhost:9191/api/channels/logos/288/cache/" tvg-chno="48" group-title="Documentales",Nat Geo Wild
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839885.ts
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="El Toro TV" tvg-logo="http://localhost:9191/api/channels/logos/290/cache/" tvg-chno="49" group-title="Documentales",El Toro TV
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839875.ts
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro" tvg-logo="http://localhost:9191/api/channels/logos/331/cache/" tvg-chno="50" group-title="Documentales",Onetoro
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839876.ts
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro" tvg-logo="http://localhost:9191/api/channels/logos/331/cache/" tvg-chno="51" group-title="Documentales",Onetoro
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839871.ts
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1" tvg-logo="http://localhost:9191/api/channels/logos/307/cache/" tvg-chno="52" group-title="Dazn Deportes",DAZN 1
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839966.ts
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1" tvg-logo="http://localhost:9191/api/channels/logos/307/cache/" tvg-chno="53" group-title="Dazn Deportes",DAZN 1
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839951.ts
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2" tvg-logo="http://localhost:9191/api/channels/logos/308/cache/" tvg-chno="54" group-title="Dazn Deportes",DAZN 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839950.ts
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2" tvg-logo="http://localhost:9191/api/channels/logos/308/cache/" tvg-chno="55" group-title="Dazn Deportes",DAZN 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2133309.ts
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3" tvg-logo="http://localhost:9191/api/channels/logos/323/cache/" tvg-chno="56" group-title="Dazn Deportes",DAZN 3
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839958.ts
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3" tvg-logo="http://localhost:9191/api/channels/logos/323/cache/" tvg-chno="57" group-title="Dazn Deportes",DAZN 3
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839949.ts
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4" tvg-logo="http://localhost:9191/api/channels/logos/324/cache/" tvg-chno="58" group-title="Dazn Deportes",DAZN 4
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839957.ts
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4" tvg-logo="http://localhost:9191/api/channels/logos/324/cache/" tvg-chno="59" group-title="Dazn Deportes",DAZN 4
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839948.ts
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP" tvg-logo="http://localhost:9191/api/channels/logos/306/cache/" tvg-chno="60" group-title="Dazn Deportes",DAZN MotoGP
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1843657.ts
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP" tvg-logo="http://localhost:9191/api/channels/logos/306/cache/" tvg-chno="61" group-title="Dazn Deportes",DAZN MotoGP
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1843658.ts
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1" tvg-logo="http://localhost:9191/api/channels/logos/305/cache/" tvg-chno="62" group-title="Dazn Deportes",DAZN F1
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839967.ts
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1" tvg-logo="http://localhost:9191/api/channels/logos/305/cache/" tvg-chno="63" group-title="Dazn Deportes",DAZN F1
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839953.ts
+#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="Movistar Plus" tvg-logo="http://localhost:9191/api/channels/logos/291/cache/" tvg-chno="64" group-title="Movistar Deporte",Movistar Plus
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840100.ts
+#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="Movistar Plus" tvg-logo="http://localhost:9191/api/channels/logos/291/cache/" tvg-chno="65" group-title="Movistar Deporte",Movistar Plus
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840088.ts
+#EXTINF:-1 tvg-id="66" tvg-name="MOVISTAR PLUS+ 2 ᵁᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/33/cache/" tvg-chno="66" group-title="Movistar Deporte",MOVISTAR PLUS+ 2 ᵁᴴᴰ
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840087.ts
+#EXTINF:-1 tvg-id="67" tvg-name="MOVISTAR PLUS+ 2 ᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/34/cache/" tvg-chno="67" group-title="Movistar Deporte",MOVISTAR PLUS+ 2 ᴴᴰ
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840099.ts
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes" tvg-logo="http://localhost:9191/api/channels/logos/302/cache/" tvg-chno="68" group-title="Movistar Deporte",M+ Deportes
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839946.ts
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes" tvg-logo="http://localhost:9191/api/channels/logos/302/cache/" tvg-chno="69" group-title="Movistar Deporte",M+ Deportes
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839941.ts
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2" tvg-logo="http://localhost:9191/api/channels/logos/303/cache/" tvg-chno="70" group-title="Movistar Deporte",M+ Deportes 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1680832.ts
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3" tvg-logo="http://localhost:9191/api/channels/logos/304/cache/" tvg-chno="71" group-title="Movistar Deporte",M+ Deportes 3
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839938.ts
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4" tvg-logo="http://localhost:9191/api/channels/logos/322/cache/" tvg-chno="72" group-title="Movistar Deporte",M+ Deportes 4
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839937.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1" tvg-logo="http://localhost:9191/api/channels/logos/309/cache/" tvg-chno="73" group-title="Movistar Deporte",Eurosport 1
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2133306.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1" tvg-logo="http://localhost:9191/api/channels/logos/309/cache/" tvg-chno="74" group-title="Movistar Deporte",Eurosport 1
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839928.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://localhost:9191/api/channels/logos/310/cache/" tvg-chno="75" group-title="Movistar Deporte",Eurosport 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839927.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://localhost:9191/api/channels/logos/310/cache/" tvg-chno="76" group-title="Movistar Deporte",Eurosport 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2133305.ts
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="M+ Vamos" tvg-logo="http://localhost:9191/api/channels/logos/292/cache/" tvg-chno="77" group-title="Movistar Deporte",M+ Vamos
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839868.ts
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="M+ Vamos" tvg-logo="http://localhost:9191/api/channels/logos/292/cache/" tvg-chno="78" group-title="Movistar Deporte",M+ Vamos
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839861.ts
+#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-name="M+ Vamos 2" tvg-logo="http://localhost:9191/api/channels/logos/321/cache/" tvg-chno="79" group-title="Movistar Deporte",M+ Vamos 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1683721.ts
+#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-name="M+ Vamos 2" tvg-logo="http://localhost:9191/api/channels/logos/321/cache/" tvg-chno="80" group-title="Movistar Deporte",M+ Vamos 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1683720.ts
+#EXTINF:-1 tvg-id="81" tvg-name="ELLAS #V ᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/65/cache/" tvg-chno="81" group-title="Movistar Deporte",ELLAS #V ᴴᴰ
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839867.ts
+#EXTINF:-1 tvg-id="82" tvg-name="ELLAS #V ᵁᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/65/cache/" tvg-chno="82" group-title="Movistar Deporte",ELLAS #V ᵁᴴᴰ
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839860.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN" tvg-logo="http://localhost:9191/api/channels/logos/284/cache/" tvg-chno="83" group-title="Cine y Series",AXN
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840174.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN" tvg-logo="http://localhost:9191/api/channels/logos/284/cache/" tvg-chno="84" group-title="Cine y Series",AXN
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840119.ts
+#EXTINF:-1 tvg-id="BBC Series" tvg-name="BBC Series" tvg-logo="http://localhost:9191/api/channels/logos/283/cache/" tvg-chno="85" group-title="Cine y Series",BBC Series
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1609183.ts
+#EXTINF:-1 tvg-id="BBC Series" tvg-name="BBC Series" tvg-logo="http://localhost:9191/api/channels/logos/283/cache/" tvg-chno="86" group-title="Cine y Series",BBC Series
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1609182.ts
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM Cine" tvg-logo="http://localhost:9191/api/channels/logos/328/cache/" tvg-chno="87" group-title="Cine y Series",BOM Cine
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840176.ts
+#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-name="Canal FlixOlé 1" tvg-logo="http://localhost:9191/api/channels/logos/281/cache/" tvg-chno="88" group-title="Cine y Series",Canal FlixOlé 1
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1713934.ts
+#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-name="Canal FlixOlé 1" tvg-logo="http://localhost:9191/api/channels/logos/281/cache/" tvg-chno="89" group-title="Cine y Series",Canal FlixOlé 1
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1713933.ts
+#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-name="Canal FlixOlé 2" tvg-logo="http://localhost:9191/api/channels/logos/282/cache/" tvg-chno="90" group-title="Cine y Series",Canal FlixOlé 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1713937.ts
+#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-name="Canal FlixOlé 2" tvg-logo="http://localhost:9191/api/channels/logos/282/cache/" tvg-chno="91" group-title="Cine y Series",Canal FlixOlé 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1713936.ts
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central" tvg-logo="http://localhost:9191/api/channels/logos/286/cache/" tvg-chno="92" group-title="Cine y Series",Comedy Central
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840172.ts
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central" tvg-logo="http://localhost:9191/api/channels/logos/286/cache/" tvg-chno="93" group-title="Cine y Series",Comedy Central
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840116.ts
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ Acción" tvg-logo="http://localhost:9191/api/channels/logos/276/cache/" tvg-chno="94" group-title="Cine y Series",M+ Acción
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840186.ts
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ Acción" tvg-logo="http://localhost:9191/api/channels/logos/276/cache/" tvg-chno="95" group-title="Cine y Series",M+ Acción
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840132.ts
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="http://localhost:9191/api/channels/logos/280/cache/" tvg-chno="96" group-title="Cine y Series",M+ Cine Español
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840180.ts
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="http://localhost:9191/api/channels/logos/280/cache/" tvg-chno="97" group-title="Cine y Series",M+ Cine Español
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840126.ts
+#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-name="ES: MOVISTAR CLASICOS ᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/19/cache/" tvg-chno="98" group-title="Cine y Series",ES: MOVISTAR CLASICOS ᴴᴰ
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840182.ts
+#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-name="ES: MOVISTAR CLASICOS ᵁᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/20/cache/" tvg-chno="99" group-title="Cine y Series",ES: MOVISTAR CLASICOS ᵁᴴᴰ
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840128.ts
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ Comedia" tvg-logo="http://localhost:9191/api/channels/logos/277/cache/" tvg-chno="100" group-title="Cine y Series",M+ Comedia
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840185.ts
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ Comedia" tvg-logo="http://localhost:9191/api/channels/logos/277/cache/" tvg-chno="101" group-title="Cine y Series",M+ Comedia
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840131.ts
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ Drama" tvg-logo="http://localhost:9191/api/channels/logos/278/cache/" tvg-chno="102" group-title="Cine y Series",M+ Drama
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840184.ts
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ Drama" tvg-logo="http://localhost:9191/api/channels/logos/278/cache/" tvg-chno="103" group-title="Cine y Series",M+ Drama
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840130.ts
+#EXTINF:-1 tvg-id="104" tvg-name="ES: MOVISTAR EN JUEGO ᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/253/cache/" tvg-chno="104" group-title="Cine y Series",ES: MOVISTAR EN JUEGO ᴴᴰ
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1680726.ts
+#EXTINF:-1 tvg-id="105" tvg-name="ES: MOVISTAR EN JUEGO ᵁᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/253/cache/" tvg-chno="105" group-title="Cine y Series",ES: MOVISTAR EN JUEGO ᵁᴴᴰ
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1680725.ts
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="M+ Estrenos" tvg-logo="http://localhost:9191/api/channels/logos/273/cache/" tvg-chno="106" group-title="Cine y Series",M+ Estrenos
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840181.ts
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="M+ Estrenos" tvg-logo="http://localhost:9191/api/channels/logos/273/cache/" tvg-chno="107" group-title="Cine y Series",M+ Estrenos
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840154.ts
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ Indie" tvg-logo="http://localhost:9191/api/channels/logos/279/cache/" tvg-chno="108" group-title="Cine y Series",M+ Indie
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840177.ts
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ Indie" tvg-logo="http://localhost:9191/api/channels/logos/279/cache/" tvg-chno="109" group-title="Cine y Series",M+ Indie
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840123.ts
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ Originales" tvg-logo="http://localhost:9191/api/channels/logos/274/cache/" tvg-chno="110" group-title="Cine y Series",M+ Originales
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840183.ts
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ Originales" tvg-logo="http://localhost:9191/api/channels/logos/274/cache/" tvg-chno="111" group-title="Cine y Series",M+ Originales
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840129.ts
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SkyShowtime" tvg-logo="http://localhost:9191/api/channels/logos/289/cache/" tvg-chno="112" group-title="Cine y Series",SkyShowtime
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1555246.ts
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SkyShowtime" tvg-logo="http://localhost:9191/api/channels/logos/289/cache/" tvg-chno="113" group-title="Cine y Series",SkyShowtime
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/1555247.ts
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="Warner TV" tvg-logo="http://localhost:9191/api/channels/logos/285/cache/" tvg-chno="114" group-title="Cine y Series",Warner TV
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840173.ts
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="Warner TV" tvg-logo="http://localhost:9191/api/channels/logos/285/cache/" tvg-chno="115" group-title="Cine y Series",Warner TV
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840117.ts
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="http://localhost:9191/api/channels/logos/325/cache/" tvg-chno="116" group-title="Cine y Series",XTRM
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840169.ts
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="http://localhost:9191/api/channels/logos/325/cache/" tvg-chno="117" group-title="Cine y Series",XTRM
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/840113.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga" tvg-logo="http://localhost:9191/api/channels/logos/294/cache/" tvg-chno="118" group-title="Dazn Futbol",DAZN LaLiga
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2133301.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga" tvg-logo="http://localhost:9191/api/channels/logos/294/cache/" tvg-chno="119" group-title="Dazn Futbol",DAZN LaLiga
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/2133307.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga" tvg-logo="http://localhost:9191/api/channels/logos/294/cache/" tvg-chno="120" group-title="Dazn Futbol",DAZN LaLiga
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839982.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga" tvg-logo="http://localhost:9191/api/channels/logos/294/cache/" tvg-chno="121" group-title="Dazn Futbol",DAZN LaLiga
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839973.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2" tvg-logo="http://localhost:9191/api/channels/logos/297/cache/" tvg-chno="122" group-title="Dazn Futbol",DAZN LaLiga 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839981.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2" tvg-logo="http://localhost:9191/api/channels/logos/297/cache/" tvg-chno="123" group-title="Dazn Futbol",DAZN LaLiga 2
+http://wexart.xyz/live/6b6ced5c3e/c9ad128756/839971.ts
