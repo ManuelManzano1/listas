@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-url="http://localhost:9191/output/epg/Backup?tvg_id_source=tvg_id" url-tvg="http://localhost:9191/output/epg/Backup?tvg_id_source=tvg_id"
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="TV: M+ LIGA DE CAMPEONES 2 ᴿᴬᵂ" tvg-logo="http://localhost:9191/api/channels/logos/125/cache/" tvg-chno="13691" group-title="ES| CABEL TV SPORTS ᴿᴬᵂ",TV: M+ LIGA DE CAMPEONES 2 ᴿᴬᵂ
+http://pro.blitz8k.top/live/8a18901d5b8e/12d97d1e37/1954578.ts
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="GO: M+ LALIGA DE CAMPEONES 1 ᴿᴬᵂ" tvg-logo="http://localhost:9191/api/channels/logos/40/cache/" tvg-chno="13828" group-title="ES| ORANGE SPORTS ᴿᴬᵂ",GO: M+ LALIGA DE CAMPEONES 1 ᴿᴬᵂ
+http://pro.blitz8k.top/live/8a18901d5b8e/12d97d1e37/1677863.ts
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="VO: M.LIGA CAMPEONES 2 ᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/40/cache/" tvg-chno="14015" group-title="ES| VODAFONE SPORTS ᴿᴬᵂ",VO: M.LIGA CAMPEONES 2 ᴴᴰ
+http://pro.blitz8k.top/live/8a18901d5b8e/12d97d1e37/1680809.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: MOVISTAR LALIGA ᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/38/cache/" tvg-chno="14736" group-title="ES| M+ LALIGA VIP",ES: MOVISTAR LALIGA ᴴᴰ
+http://pro.blitz8k.top/live/8a18901d5b8e/12d97d1e37/2126805.ts
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: M+ LIGA DE CAMPEONES ᴿᴬᵂ" tvg-logo="http://localhost:9191/api/channels/logos/101/cache/" tvg-chno="14934" group-title="ES| M+ LIGA DE CAMPEONES VIP",ES: M+ LIGA DE CAMPEONES ᴿᴬᵂ
+http://pro.blitz8k.top/live/8a18901d5b8e/12d97d1e37/2144573.ts
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: M+ LIGA DE CAMPEONES 2 ᴿᴬᵂ" tvg-logo="http://localhost:9191/api/channels/logos/101/cache/" tvg-chno="14937" group-title="ES| M+ LIGA DE CAMPEONES VIP",ES: M+ LIGA DE CAMPEONES 2 ᴿᴬᵂ
+http://pro.blitz8k.top/live/8a18901d5b8e/12d97d1e37/2144570.ts
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES: DAZN LA LIGA ᴴᴰ" tvg-logo="http://localhost:9191/api/channels/logos/1/cache/" tvg-chno="15030" group-title="ES| DAZN LA LIGA VIP",ES: DAZN LA LIGA ᴴᴰ
+http://pro.blitz8k.top/live/8a18901d5b8e/12d97d1e37/839982.ts
